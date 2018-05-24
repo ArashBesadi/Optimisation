@@ -1,2 +1,2 @@
 # Optimisation-
-Comparing hill climbing with gradient ascent
+Comparing hill climbing with gradient ascent on a simple and complex landscape. 
